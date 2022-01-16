@@ -1,7 +1,7 @@
 # dockerized-openvpn
 Dockerized OpenVPN
 
-Run OpenVPN inside a docker conyainer with firfox.
+Run OpenVPN inside a docker conyainer with Mozilla Firefox.
 
 Firefox start with a clean state each time. (INCOGNITO)
 
