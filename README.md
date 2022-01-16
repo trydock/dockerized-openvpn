@@ -32,3 +32,8 @@ EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, NEITHER PARTY MAKES ANY OTHER RE
 
 The source used in this repo is originally taken from `https://github.com/oseiskar/docker-vpn-browser.git`
 I have customized and corrected it to meet my requirements.
+
+## References
+
+- http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
+- https://stackoverflow.com/questions/16296753/can-you-run-gui-applications-in-a-linux-docker-container
